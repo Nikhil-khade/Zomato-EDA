@@ -27,7 +27,7 @@ A complete data analysis project using Zomato’s restaurant dataset from Bengal
 
 ## 📁 Files
 - `notebook/zomato_analysis.ipynb`: Jupyter notebook with full analysis
-- `data/zomato.csv`: Dataset (if allowed)
+- `data/zomato.csv`: Dataset
 - `requirements.txt`: Dependencies
 
 ## 🚀 How to Run
