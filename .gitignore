@@ -1,0 +1,22 @@
+# Ignore large dataset files
+data/zomato.csv
+data/zomato_cleaned.csv
+data/zomato_full.csv
+data/*.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore sample export files
+*.log
+*.tmp
+
+# Ignore environment or config files (optional)
+.env
+*.env
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
